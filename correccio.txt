@@ -1,0 +1,14 @@
+Exercici 1. 2/2
+  
+Exercici 2. 2/2
+  
+Exercici 3. 2/2
+
+Exercici 4. 2/2
+
+Exercici 5. 1,9/2
+Les funcions demana_posicio(),  comprovar_victoria(), etc, haurien d'incloure l'input "N" que ara estan utilitzant.
+Per altra banda, la lògica per fer la posició ocupada està bé, tot i que em sembla una idea realtivament complexa pel que hem fet fins ara. 
+Perquè estàs cridant recursivament una funció, i això no ho hem fet. Fet que em fa dubtar que hagis usat el Copilot
+  
+Nota: 9,9/10
